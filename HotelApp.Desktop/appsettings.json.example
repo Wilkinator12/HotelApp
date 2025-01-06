@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "SqlDb": "YourConnectionStringHere",
+    "SqliteDb": "YourConnectionStringHere"
+  },
+  "DatabaseChoice": "SQLite"
+}
