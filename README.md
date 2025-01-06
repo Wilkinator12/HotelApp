@@ -25,4 +25,4 @@ check-in guests for their stay. Both UIs use a single library to access either a
 
 ## Before Building on Your Machine
 - Publish the SQL Server database to your local server using the provided "HotelAppDB" project.
-- Create your own "appsettings.json" file that follows the provided "appsettings.json.example" file and replace "YourConnectionStringHere" with the connection string to your newly publish, local SQL Server database as well as the provided SQLite database file.
+- Create your own "appsettings.json" files that follow the two provided "appsettings.json.example" files and replace both instances of "YourConnectionStringHere" with the connection string to your newly publish, local SQL Server database as well as the provided SQLite database file.
